@@ -2,7 +2,7 @@
 
 End-to-end time-series forecasting project predicting the **close price of FPT Corporation** (ticker: FPT, HOSE) using three approaches: ARIMA, Random Forest, and LSTM.
 
-📺 Demo: [YouTube](https://www.youtube.com/watch?v=NutuEvZsEeE&ab_channel=lybao)
+💻 Demo: [YouTube](https://www.youtube.com/watch?v=NutuEvZsEeE&ab_channel=lybao)
 
 ---
 
